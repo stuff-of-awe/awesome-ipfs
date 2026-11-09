@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: CC-BY-SA-4.0
+# SPDX-License-Identifier: CC0-1.0
 # Stuff of Awe collection template: keeps any GitHub Actions used in this
 # repository up to date. A collection without workflows has nothing to bump.
 version: 2
